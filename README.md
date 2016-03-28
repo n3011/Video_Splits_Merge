@@ -10,4 +10,5 @@ Splitting a video to multiples video and merging multiples video to a single vid
 
 - [FFmpeg](https://www.ffmpeg.org/download.html) 
 - [python >= 2.7](https://www.python.org/) 
+- [OpenCV >= 2.4] (http://opencv.org/)
 
